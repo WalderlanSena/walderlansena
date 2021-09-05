@@ -1,4 +1,4 @@
-### Hi I am Walderlan Sena 👋
+### Hi, I am Walderlan Sena 👋
 
 <div>
   <a href="https://github.com/walderlansena">
