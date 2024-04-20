@@ -1,5 +1,38 @@
 ### Hi, I am Walderlan Sena 👋
 
+<ul>
+  <li>👨🏽‍💻 Analisty and System Developer</li>
+  <li>🚧 Postgraduate in Software Engineering</li>
+  <li>🤖 Postgraduate in Artificial Intelligence and Machine Learning</li>
+  <li>🧠 Postgraduate in Behavioral Neuroscience</li>
+  <li>👨🏾‍⚕️ Graduating in Psychology</li>
+</ul>
+
+#### Technologies:
+
+- PHP Symfony, Laravel, others.
+
+- Javascript NodeJs, Express, Nest Js, React Js, React Native.
+  
+- Python Data Science, AI. C, C++, Arduino Micro.
+
+- Controllers and Robotics. Java Spring Boot
+
+- Mysql Database, Postgresql, MongoDB.
+
+- HTML5, CSS3 Bootstrap, Material Design, Tailwind.
+
+- Docker Infrastructure, Kubernetes, Linux Servers, Git.
+
+- Hexagonal Architecture, MicroService.
+
+- Good Practices (SOLID, Clean Code, Clean Arch, DDD, Unit Test).
+
+- AWS Cloud Computing
+
+- Kafka Event Guidance, RabbitMQ.
+
+
 <!--
 <div>
   <a href="https://github.com/walderlansena">
