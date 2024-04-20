@@ -10,19 +10,26 @@
 
 #### Technologies:
 
-- PHP Symfony, Laravel, others.
+- PHP
+  - Symfony, Laravel, others.
 
-- Javascript NodeJs, Express, Nest Js, React Js, React Native.
+- Javascript
+  - NodeJs, Express, Nest Js, React Js, React Native.
   
 - Python Data Science, AI. C, C++, Arduino Micro.
 
-- Controllers and Robotics. Java Spring Boot
+- Controllers and Robotics.
 
-- Mysql Database, Postgresql, MongoDB.
+- Java
+  - Spring Boot
+
+- Databases
+  - Mysql, Postgresql, MongoDB.
 
 - HTML5, CSS3 Bootstrap, Material Design, Tailwind.
 
-- Docker Infrastructure, Kubernetes, Linux Servers, Git.
+- Infrastructure
+  - Docker, Kubernetes, Linux Servers, Git.
 
 - Hexagonal Architecture, MicroService.
 
