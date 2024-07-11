@@ -5,7 +5,7 @@
   <li>🚧 Postgraduate in Software Engineering</li>
   <li>🤖 Postgraduate in Artificial Intelligence and Machine Learning</li>
   <li>🧠 Postgraduate in Behavioral Neuroscience</li>
-  <li>👨🏾‍⚕️ Graduating in Psychology</li>
+  <li>👨🏾‍⚕️ Graduating in biomedical engineering.</li>
 </ul>
 
 #### Technologies:
