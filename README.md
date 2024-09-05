@@ -8,6 +8,7 @@
   <li>👨🏾‍⚕️ Graduating in biomedical engineering.</li>
 </ul>
 
+<!--
 #### Technologies:
 
 - PHP
