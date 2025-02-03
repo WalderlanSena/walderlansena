@@ -1,10 +1,10 @@
 ### Hi, I am Walderlan Sena 👋
 
 <ul>
-  <li>👨🏽‍💻 Analisty and System Developer</li>
+  <li>👨🏽‍💻 Analisty and System Developer | Pentest</li>
   <li>🚧 Postgraduate in Software Engineering</li>
   <li>🤖 Postgraduate in Artificial Intelligence and Machine Learning</li>
-  <li>🧠 Postgraduate in Behavioral Neuroscience</li>
+  <li>👨🏽‍💻 Postgraduate in Ciberscurity</li>
   <li>👨🏾‍⚕️ Graduating in biomedical engineering.</li>
 </ul>
 
